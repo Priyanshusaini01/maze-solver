@@ -20,5 +20,5 @@ You need to have installed following softwares and libraries in your machine bef
 * Python 3: https://www.python.org/downloads/
 * Jupyter: https://jupyter.org/
 ## Author
-Ramakrishnan - Complete work
+Priyanshu saini - Complete work
  
